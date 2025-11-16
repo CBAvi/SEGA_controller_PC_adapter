@@ -1,5 +1,6 @@
 # SEGA_controller_PC_adapter
 Переходник для подключения контроллеров SEGA MegaDrive к ПК с использованием Arduino pro micro.  
+
 Компоненты:  
 1. Arduino Pro Micro
 2. Разъём/ы DB-9
